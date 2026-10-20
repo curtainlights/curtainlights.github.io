@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/27gjg8e11zukd.js"
+3:I[22016,["$2"],""]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+15:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/2o0c0v9uu3fha.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+11:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L13","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"curtain-fairy-lights","s":[]},"h":66048,"d":{"r":"$L10","p":false,"v":"$11"},"c":"$Q12"}]]
+0:{"P":null,"c":["","curtain-fairy-lights",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2o0c0v9uu3fha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/27gjg8e11zukd.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-US","className":"_6R3VcG_variable -KQRRa_variable","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://curtainlights.pages.dev/#org\",\"name\":\"CurtainLights\",\"url\":\"https://curtainlights.pages.dev\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://curtainlights.pages.dev/images/logo.png\",\"width\":512,\"height\":512}},{\"@type\":\"WebSite\",\"@id\":\"https://curtainlights.pages.dev/#website\",\"name\":\"CurtainLights\",\"url\":\"https://curtainlights.pages.dev\",\"publisher\":{\"@id\":\"https://curtainlights.pages.dev/#org\"},\"inLanguage\":\"en-US\"}]}"}}],["$","a",null,{"className":"skip","href":"#content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap wide","children":[["$","$L3",null,{"href":"/","className":"brand","aria-label":"CurtainLights home","children":[["$","svg",null,{"viewBox":"0 0 64 64","width":30,"height":30,"aria-hidden":"true","children":[["$","defs",null,{"children":["$","linearGradient",null,{"id":"cl-g","x1":"0","y1":"0","x2":"1","y2":"1","children":[["$","stop",null,{"offset":"0","stopColor":"#fcd34d"}],["$","stop",null,{"offset":"1","stopColor":"#f59e0b"}]]}]}],["$","rect",null,{"width":"64","height":"64","rx":"16","fill":"url(#cl-g)"}],["$","path",null,{"d":"M14 15h36","stroke":"#1c1917","strokeWidth":"4","strokeLinecap":"round"}],[["$","g","20",{"fill":"#1c1917","children":[["$","circle","24",{"cx":20,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":20,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":20,"cy":42,"r":"3.2"}]]}],["$","g","32",{"fill":"#1c1917","children":[["$","circle","24",{"cx":32,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":32,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":32,"cy":42,"r":"3.2"}],["$","circle","51",{"cx":32,"cy":51,"r":"3.2"}]]}],["$","g","44",{"fill":"#1c1917","children":[["$","circle","24",{"cx":44,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":44,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":44,"cy":42,"r":"3.2"}]]}]]]}],["$","span",null,{"children":["Curtain",["$","b",null,{"children":"Lights"}]]}]]}],["$","nav",null,{"aria-label":"Main","children":[["$","$L3",null,{"href":"/led-curtain-lights/","children":"LED"}],["$","$L3",null,{"href":"/smart-curtain-lights/","children":"Smart"}],["$","$L3",null,{"href":"/outdoor-curtain-lights/","children":"Outdoor"}],["$","$L3",null,{"href":"/curtain-lights-size-guide/","children":"Size guide"}],false]}]]}]}],["$","div",null,{"id":"content","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"wrap article","children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["That page does not exist. Try the ",["$","$L3",null,{"href":"/","children":"home page"}]," or the ",["$","$L3",null,{"href":"/curtain-lights-size-guide/","children":"size guide"}],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap wide foot-grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"foot-brand","children":[["$","svg",null,{"viewBox":"0 0 64 64","width":26,"height":26,"aria-hidden":"true","children":[["$","defs",null,{"children":["$","linearGradient",null,{"id":"cl-g","x1":"0","y1":"0","x2":"1","y2":"1","children":[["$","stop",null,{"offset":"0","stopColor":"#fcd34d"}],["$","stop",null,{"offset":"1","stopColor":"#f59e0b"}]]}]}],["$","rect",null,{"width":"64","height":"64","rx":"16","fill":"url(#cl-g)"}],["$","path",null,{"d":"M14 15h36","stroke":"#1c1917","strokeWidth":"4","strokeLinecap":"round"}],[["$","g","20",{"fill":"#1c1917","children":[["$","circle","24",{"cx":20,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":20,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":20,"cy":42,"r":"3.2"}]]}],["$","g","32",{"fill":"#1c1917","children":[["$","circle","24",{"cx":32,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":32,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":32,"cy":42,"r":"3.2"}],["$","circle","51",{"cx":32,"cy":51,"r":"3.2"}]]}],["$","g","44",{"fill":"#1c1917","children":[["$","circle","24",{"cx":44,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":44,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":44,"cy":42,"r":"3.2"}]]}]]]}],["$","span",null,{"children":["Curtain",["$","b",null,{"children":"Lights"}]]}]]}],["$","p",null,{"children":["LED curtain lights for windows, balconies and every season","."]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"foot-h","children":"Guides"}],[["$","$L3","led-curtain-lights",{"href":"/led-curtain-lights/","children":"LED Curtain Lights"}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]]}],"$Ld"]}],"$Le"]}]]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":"$L14","p":false,"v":null}},"m":"$undefined","G":["$15",["$L16"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"MRNIz7RsT4TJrXpI2VkPB"}
+18:I[97367,["$2"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:"ViewportBoundary"
+1c:I[97367,["$2"],"$1b"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2"],"$1e"]
+6:["$","$L3","curtain-fairy-lights",{"href":"/curtain-fairy-lights/","children":"Curtain Fairy Lights"}]
+7:["$","$L3","smart-curtain-lights",{"href":"/smart-curtain-lights/","children":"Smart Curtain Lights"}]
+8:["$","$L3","outdoor-curtain-lights",{"href":"/outdoor-curtain-lights/","children":"Outdoor Curtain Lights"}]
+9:["$","$L3","window-curtain-lights",{"href":"/window-curtain-lights/","children":"Window Curtain Lights"}]
+a:["$","$L3","curtain-lights-for-bedroom",{"href":"/curtain-lights-for-bedroom/","children":"Curtain Lights for Bedroom"}]
+b:["$","$L3","halloween-curtain-lights",{"href":"/halloween-curtain-lights/","children":"Halloween Curtain Lights"}]
+c:["$","$L3","curtain-lights-size-guide",{"href":"/curtain-lights-size-guide/","children":"Curtain Lights Size Guide"}]
+d:["$","div",null,{"children":[["$","p",null,{"className":"foot-h","children":"About"}],["$","$L3",null,{"href":"/about/","children":"About us"}],["$","$L3",null,{"href":"/disclosure/","children":"Affiliate disclosure"}],["$","$L3",null,{"href":"/privacy/","children":"Privacy"}]]}]
+e:["$","div",null,{"className":"wrap wide fine","children":[["$","p",null,{"children":"CurtainLights is affiliated with Lumalyn. Links marked as partner links may earn us a commission at no extra cost to you. Product details are taken from the manufacturer’s published specifications."}],["$","p",null,{"children":["© ",2026," ","CurtainLights"]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":["$L17",null,["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}]
+14:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":"$L20"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2o0c0v9uu3fha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:C
+21:Tac2,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Curtain Fairy Lights: Home Ideas, Colors and How Many You Need","description":"Curtain fairy lights ideas for windows, bedrooms and parties: warm white vs. color, plain vs. animated, and how many sets to buy. Get the look right first time.","image":["https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=1200"],"dateModified":"2026-10-20","datePublished":"2026-10-20","inLanguage":"en-US","mainEntityOfPage":"https://curtainlights.pages.dev/curtain-fairy-lights/","author":{"@type":"Organization","name":"CurtainLights editors","url":"https://curtainlights.pages.dev/about/"},"publisher":{"@id":"https://curtainlights.pages.dev/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://curtainlights.pages.dev/"},{"@type":"ListItem","position":2,"name":"Curtain Fairy Lights: Ideas, Colors and How Many to Buy","item":"https://curtainlights.pages.dev/curtain-fairy-lights/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How many curtain fairy lights do I need for a window?","acceptedAnswer":{"@type":"Answer","text":"Measure the width where the top cable will hang. One 6 ft 7 in (2 m) curtain covers most single windows and glass doors, and a 9 ft 10 in (3 m) curtain suits wide openings if you have the height for its drop. Wider spaces take two or more sets side by side."}},{"@type":"Question","name":"Are warm white or colored curtain lights better?","acceptedAnswer":{"@type":"Answer","text":"Warm white feels cozy and classic, while color suits parties and holidays. An RGB pixel curtain such as Lumalyn's can do both. If you only ever want warm white, a dedicated warm-white set usually gives the most natural warm tone."}},{"@type":"Question","name":"Can you put curtain fairy lights behind curtains?","acceptedAnswer":{"@type":"Answer","text":"Yes. A sheer curtain in front diffuses the LEDs into a soft haze. Lower the brightness so it doesn't glare, and keep the controller and charger uncovered and easy to reach."}},{"@type":"Question","name":"Can curtain fairy lights stay on all night?","acceptedAnswer":{"@type":"Answer","text":"It's safer not to. Electrical Safety First advises switching decorative lights off and unplugging them before bed or when you go out. A built-in timer, like the one on Lumalyn's curtain, at least makes sure they switch off on schedule."}},{"@type":"Question","name":"Do curtain fairy lights need an outlet?","acceptedAnswer":{"@type":"Answer","text":"Not always. USB curtains like Lumalyn's run from a phone charger or a power bank, which helps on balconies or walls with no outlet nearby. Note that Lumalyn doesn't include the USB adapter."}}]}]}17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$21"}}],["$","main",null,{"className":"wrap article","children":[["$","p",null,{"className":"crumbs","children":[["$","$L3",null,{"href":"/","children":"Home"}]," › Guides"]}],["$","h1",null,{"children":"Curtain Fairy Lights: Home Ideas, Colors and How Many You Need"}],["$","p",null,{"className":"dek","children":"Curtain fairy lights ideas for windows, bedrooms and parties: warm white vs. color, plain vs. animated, and how many sets to buy. Get the look right first time."}],["$","p",null,{"className":"meta","children":["By the ","CurtainLights"," editors · Updated ","October 20, 2026"," · ",6," min read · Based on manufacturer specs"]}],"$L22","$L23","$L24","$L25",["$L26","$L27","$L28"],"$L29","$L2a"]}],"$L2b",false]
+:HL["https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=1200","image",{"imageSrcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=480 480w, https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=720 720w, https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=960 960w, https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=1200 1200w","imageSizes":"(max-width: 760px) calc(100vw - 40px), 720px"}]
+22:["$","p",null,{"className":"disclosure","children":["We are affiliated with Lumalyn and may earn from purchases through partner links, at no extra cost to you. ",["$","$L3",null,{"href":"/disclosure/","children":"How this works"}],"."]}]
+23:["$","figure",null,{"className":"lead","children":["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=1200","srcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=480 480w, https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=720 720w, https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=960 960w, https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=1200 1200w","sizes":"(max-width: 760px) calc(100vw - 40px), 720px","alt":"Curtain fairy lights glowing blue, purple and pink behind a living-room glass door while a person on the sofa holds a remote","width":1200,"height":1200}]}]
+24:["$","div",null,{"className":"takeaways","children":[["$","p",null,{"className":"box-h","children":"In short"}],["$","ul",null,{"children":[["$","li","The best spots are windows, headboard walls, glass doors and party backdrops; a sheer drape in front turns the dots into a soft glow.",{"children":"The best spots are windows, headboard walls, glass doors and party backdrops; a sheer drape in front turns the dots into a soft glow."}],["$","li","Warm white feels calm and classic, color feels festive; an RGB pixel curtain like Lumalyn's can switch between moods instead of locking you into one.",{"children":"Warm white feels calm and classic, color feels festive; an RGB pixel curtain like Lumalyn's can switch between moods instead of locking you into one."}],["$","li","Size by width: one 6 ft 7 in (2 m) curtain covers most single windows, and wider spans take two or three sets side by side.",{"children":"Size by width: one 6 ft 7 in (2 m) curtain covers most single windows, and wider spans take two or three sets side by side."}]]}]]}]
+25:["$","nav",null,{"className":"toc","aria-label":"In this guide","children":[["$","p",null,{"className":"box-h","children":"In this guide"}],["$","ol",null,{"children":[["$","li","where-curtain-fairy-lights-look-best-at-home",{"children":["$","a",null,{"href":"#where-curtain-fairy-lights-look-best-at-home","children":"Where curtain fairy lights look best at home"}]}],["$","li","warm-white-or-color",{"children":["$","a",null,{"href":"#warm-white-or-color","children":"Warm white or color?"}]}],["$","li","plain-twinkle-or-animated-pixels",{"children":["$","a",null,{"href":"#plain-twinkle-or-animated-pixels","children":"Plain twinkle or animated pixels?"}]}],["$","li","how-many-curtain-fairy-lights-do-you-need",{"children":["$","a",null,{"href":"#how-many-curtain-fairy-lights-do-you-need","children":"How many curtain fairy lights do you need?"}]}],["$","li","powering-them-neatly",{"children":["$","a",null,{"href":"#powering-them-neatly","children":"Powering them neatly"}]}],["$","li","make-it-look-styled-not-cluttered",{"children":["$","a",null,{"href":"#make-it-look-styled-not-cluttered","children":"Make it look styled, not cluttered"}]}],["$","li","why-we-recommend-the-lumalyn-curtain",{"children":["$","a",null,{"href":"#why-we-recommend-the-lumalyn-curtain","children":"Why we recommend the Lumalyn curtain"}]}]]}]]}]
+26:["$","div","0",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"<p>Curtain fairy lights are the quickest way to make a room feel different without picking up a paintbrush. A sheet of tiny lights behind a sheer drape turns a plain window into a warm glow. Move the same curtain to a bare wall and it becomes a backdrop for birthdays, photos and slow evenings in.</p>\n<p>Below are the best places to hang them, how to choose between warm white and color, whether animation is worth paying for, and how many sets you actually need.</p>\n<p>A quick note first: CurtainLights is affiliated with Lumalyn and may earn a commission when you buy through our links. We recommend one curtain because it covers the most ideas on this page, and we&#39;ll be upfront about where it falls short.</p>\n"}}],["$","p",null,{"className":"pick-note","children":[["$","strong",null,{"children":"Our pick:"}]," the ","Lumalyn Smart Animated Christmas Balcony Lights"," (400 pixel LEDs, app and remote, 2 m or 3 m). Specs and current price are on the"," ",["$","a",null,{"href":"https://lumalyn.store/","rel":"sponsored noopener","children":"partner store"}]," (partner link; we may earn from purchases)."]}]]}]
+2c:T1fb4,<h2 id="where-curtain-fairy-lights-look-best-at-home">Where curtain fairy lights look best at home</h2>
+<table>
+<thead>
+<tr>
+<th>Spot</th>
+<th>What it does</th>
+<th>Tip</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Living-room window</td>
+<td>Glows inside and shows from the street</td>
+<td>Hang it on the inside of the glass so the plug stays dry</td>
+</tr>
+<tr>
+<td>Behind sheer curtains</td>
+<td>Softens the dots into a haze</td>
+<td>Lower the brightness to avoid glare</td>
+</tr>
+<tr>
+<td>Headboard wall</td>
+<td>Replaces a harsh ceiling light</td>
+<td>Set a timer so it switches off after you fall asleep</td>
+</tr>
+<tr>
+<td>Glass balcony door</td>
+<td>Frames the view at night</td>
+<td>Check the door still opens and closes freely</td>
+</tr>
+<tr>
+<td>Party backdrop</td>
+<td>Instant photo wall</td>
+<td>Use bright color scenes or a scrolling message</td>
+</tr>
+<tr>
+<td>Home office wall</td>
+<td>Gives video calls a warm background</td>
+<td>Keep it dim so your face stays the brightest thing</td>
+</tr>
+<tr>
+<td>Kids&#39; room</td>
+<td>Gentle evening light</td>
+<td>Keep cables, hooks and the controller out of reach</td>
+</tr>
+</tbody></table>
+<p>Windows deserve their own plan, because glare, blinds and condensation all play a part. Our <a href="/window-curtain-lights/">window curtain lights guide</a> covers that. For sleep-friendly setups, see <a href="/curtain-lights-for-bedroom/">curtain lights for bedroom</a> ideas.</p>
+<h2 id="warm-white-or-color">Warm white or color?</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Warm white</th>
+<th>Color (RGB)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Mood</td>
+<td>Cozy, calm, classic</td>
+<td>Playful, festive, eye-catching</td>
+</tr>
+<tr>
+<td>Works with</td>
+<td>Neutral rooms, wood, linen</td>
+<td>Parties, kids&#39; rooms, modern spaces</td>
+</tr>
+<tr>
+<td>Occasions</td>
+<td>Winter, weddings, everyday</td>
+<td>Christmas, Halloween, birthdays, game nights</td>
+</tr>
+<tr>
+<td>In photos</td>
+<td>Soft and flattering</td>
+<td>Bold and high-contrast</td>
+</tr>
+</tbody></table>
+<p>Here&#39;s the catch with many fairy curtains: you choose warm white <strong>or</strong> multicolor at checkout, then live with it for years. An RGB pixel curtain removes that choice. Lumalyn lists 16 million colors, so the same set can hold a soft, warm tone on a weeknight and go full rainbow for Saturday&#39;s party.</p>
+<p>To be fair to the other side: an RGB curtain mixes its warm shades from red, green and blue LEDs. If you only ever want warm white and nothing else, a dedicated warm-white set usually gives the most natural tone.</p>
+<h2 id="plain-twinkle-or-animated-pixels">Plain twinkle or animated pixels?</h2>
+<p>Plain fairy curtains switch every bulb together. You get steady, twinkle, fade and maybe a chase mode. They&#39;re simple and affordable, and for background glow that&#39;s all you need.</p>
+<p>Animated pixel curtains control each LED separately, so the curtain behaves like a big, soft screen. Lumalyn lists 100+ scenes across Christmas, snow and winter, festive messages, color patterns, other holiday themes and ambient lighting. A DIY mode lets you draw your own designs or type scrolling text.</p>
+<p>Ask one question: will anyone see this from outside or at a party? If yes, animation earns its keep. A window that spells out &quot;Happy 30th, Sam&quot; or a balcony that snows all week gets noticed. For a wall only you see, a plain curtain does the job. Our <a href="/led-curtain-lights/">LED curtain lights guide</a> compares the two types in more depth.</p>
+<h2 id="how-many-curtain-fairy-lights-do-you-need">How many curtain fairy lights do you need?</h2>
+<p>Measure the width you want to fill, then match it to curtain widths:</p>
+<table>
+<thead>
+<tr>
+<th>Width to fill</th>
+<th>Suggested setup</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Up to about 6 ft 7 in (2 m): single window, headboard, desk wall</td>
+<td>One 2 m curtain</td>
+</tr>
+<tr>
+<td>About 6 ft 7 in to 9 ft 10 in (2–3 m): wide window, sliding door</td>
+<td>One 3 m curtain if you have the height, or one centered 2 m set for sharper pictures</td>
+</tr>
+<tr>
+<td>About 10 to 13 ft (3–4 m): long wall or balcony</td>
+<td>Two 2 m curtains side by side</td>
+</tr>
+<tr>
+<td>About 13 to 20 ft (4–6 m): long balcony or party wall</td>
+<td>Two 3 m or three 2 m curtains</td>
+</tr>
+</tbody></table>
+<p>Check the drop, too. Lumalyn&#39;s curtains are square, so the 2 m set hangs 6 ft 7 in and the 3 m set hangs 9 ft 10 in. That second drop is taller than many 8 to 9 ft (2.4–2.7 m) ceilings, so the 3 m set suits tall spaces or spots where extra length can rest on the floor. Our <a href="/curtain-lights-size-guide/">curtain lights size guide</a> has a full measuring walkthrough.</p>
+<p>Need more than one? Lumalyn takes 10% off two sets and 20% off three.</p>
+<h2 id="powering-them-neatly">Powering them neatly</h2>
+<p>Visible cables spoil the look faster than anything else. A few habits help:</p>
+<ul>
+<li><strong>Plan the plug first.</strong> Lumalyn runs on 5 V USB, so a phone charger near the window or a power bank tucked out of sight both work. The charger isn&#39;t in the box, so have one ready.</li>
+<li><strong>Hide the lead.</strong> Run it down the edge of the frame and hold it in place with small adhesive clips.</li>
+<li><strong>Keep the controller handy.</strong> Indoors, put it where you can reach it. Outdoors, keep the USB plug and charger dry; the curtain is rated IP44 for sheltered spots, not open rain.</li>
+<li><strong>Stock the remote.</strong> It takes AAA batteries, which aren&#39;t included.</li>
+</ul>
+<h2 id="make-it-look-styled-not-cluttered">Make it look styled, not cluttered</h2>
+<ul>
+<li><strong>Diffuse it.</strong> A sheer curtain in front turns sharp points of light into a gentle glow.</li>
+<li><strong>Dim it.</strong> Full brightness is for the street. Half is often plenty for a room.</li>
+<li><strong>Slow it down.</strong> Calm, slow scenes feel cozy; fast chases feel like a party. Lumalyn lets you adjust both brightness and speed.</li>
+<li><strong>Use the timer.</strong> Lights that come on at dusk and go off at bedtime look intentional. UK charity Electrical Safety First advises switching decorative lights off and unplugging them before bed or when you go out, and a timer covers the switching-off part even on nights you forget.</li>
+<li><strong>Follow the calendar.</strong> Snow in December, hearts in February, a pumpkin you draw yourself in October. Our <a href="/halloween-curtain-lights/">Halloween curtain lights</a> guide has spooky ideas.</li>
+</ul>
+<h2 id="why-we-recommend-the-lumalyn-curtain">Why we recommend the Lumalyn curtain</h2>
+<p>It covers more of this page than any single plain curtain can: a warm glow for quiet nights, color for parties, scenes for the holidays and your own drawings for everything else.</p>
+<p><strong>What Lumalyn lists:</strong> 400 individually controlled LEDs, 16 million colors, 100+ scenes, DIY drawing and scrolling text, 5 music-sync modes, adjustable brightness and speed, a timer, a Bluetooth app for iOS and Android, a remote and hanging hooks. It comes in 6 ft 7 in (2 m) and 9 ft 10 in (3 m) square sizes.</p>
+<p><strong>What to know before you order:</strong></p>
+<ul>
+<li>There&#39;s no USB adapter in the box. Any USB charger or power bank works.</li>
+<li>It&#39;s IP44: fine indoors and in sheltered outdoor spots, not in open rain.</li>
+<li>Control is by Bluetooth from nearby. No Wi-Fi is needed, but you can&#39;t control it from across town.</li>
+<li>The name says Christmas, but the scene list covers ambient lighting, color patterns and other holidays too.</li>
+</ul>
+<p><strong>What makes it low-risk:</strong> free tracked shipping worldwide (dispatched in 1–3 business days, about 7–12 business days to arrive), 30-day returns with a free return label and a 2-year warranty. Import duties may apply in some countries. If it&#39;s a gift for Christmas, order by December 10.</p>
+<p>If you want one curtain that can be calm, colorful or festive depending on the night, <a href="https://lumalyn.store/" rel="sponsored noopener">take a look at the Lumalyn curtain</a>.</p>
+27:["$","div","1",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2c"}}],"$L2d"]}]
+28:["$","div","2",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":""}}],false]}]
+29:["$","section",null,{"className":"faq","aria-labelledby":"faq","children":[["$","h2",null,{"id":"faq","children":"Frequently asked questions"}],[["$","details","How many curtain fairy lights do I need for a window?",{"children":[["$","summary",null,{"children":"How many curtain fairy lights do I need for a window?"}],["$","p",null,{"children":"Measure the width where the top cable will hang. One 6 ft 7 in (2 m) curtain covers most single windows and glass doors, and a 9 ft 10 in (3 m) curtain suits wide openings if you have the height for its drop. Wider spaces take two or more sets side by side."}]]}],["$","details","Are warm white or colored curtain lights better?",{"children":[["$","summary",null,{"children":"Are warm white or colored curtain lights better?"}],["$","p",null,{"children":"Warm white feels cozy and classic, while color suits parties and holidays. An RGB pixel curtain such as Lumalyn's can do both. If you only ever want warm white, a dedicated warm-white set usually gives the most natural warm tone."}]]}],["$","details","Can you put curtain fairy lights behind curtains?",{"children":[["$","summary",null,{"children":"Can you put curtain fairy lights behind curtains?"}],["$","p",null,{"children":"Yes. A sheer curtain in front diffuses the LEDs into a soft haze. Lower the brightness so it doesn't glare, and keep the controller and charger uncovered and easy to reach."}]]}],["$","details","Can curtain fairy lights stay on all night?",{"children":[["$","summary",null,{"children":"Can curtain fairy lights stay on all night?"}],["$","p",null,{"children":"It's safer not to. Electrical Safety First advises switching decorative lights off and unplugging them before bed or when you go out. A built-in timer, like the one on Lumalyn's curtain, at least makes sure they switch off on schedule."}]]}],["$","details","Do curtain fairy lights need an outlet?",{"children":[["$","summary",null,{"children":"Do curtain fairy lights need an outlet?"}],["$","p",null,{"children":"Not always. USB curtains like Lumalyn's run from a phone charger or a power bank, which helps on balconies or walls with no outlet nearby. Note that Lumalyn doesn't include the USB adapter."}]]}]]]}]
+2a:["$","section",null,{"className":"sources","children":[["$","p",null,{"className":"box-h","children":"Sources"}],["$","ul",null,{"children":[["$","li","https://lumalyn.store/products/smart-animated-christmas-balcony-lights",{"children":["$","a",null,{"href":"https://lumalyn.store/products/smart-animated-christmas-balcony-lights","rel":"sponsored noopener","children":"Lumalyn Smart Animated Christmas Balcony Lights (product page)"}]}],["$","li","https://lumalyn.store/policies/shipping-policy",{"children":["$","a",null,{"href":"https://lumalyn.store/policies/shipping-policy","rel":"sponsored noopener","children":"Lumalyn shipping policy"}]}],["$","li","https://lumalyn.store/policies/refund-policy",{"children":["$","a",null,{"href":"https://lumalyn.store/policies/refund-policy","rel":"sponsored noopener","children":"Lumalyn refund and warranty policy"}]}],["$","li","https://www.electricalsafetyfirst.org.uk/guidance/product-safety/christmas-lights/",{"children":["$","a",null,{"href":"https://www.electricalsafetyfirst.org.uk/guidance/product-safety/christmas-lights/","rel":"noopener","children":"Christmas lights safety advice (Electrical Safety First)"}]}]]}]]}]
+2b:["$","section",null,{"className":"wrap wide related","aria-labelledby":"related","children":[["$","h2",null,{"id":"related","className":"section-h","children":"More curtain light guides"}],["$","div",null,{"className":"guide-grid","children":[["$","$L3","led-curtain-lights",{"href":"/led-curtain-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"LED Curtain Lights: How to Choose the Right Set for Windows and Balconies"}]]}],["$","$L3","smart-curtain-lights",{"href":"/smart-curtain-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"Smart Curtain Lights: What App Control Adds and Who Really Needs It"}]]}],["$","$L3","outdoor-curtain-lights",{"href":"/outdoor-curtain-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"Outdoor Curtain Lights: IP Ratings, Safe Power and Where to Put Them"}]]}]]}]]}]
+2d:["$","p",null,{"className":"pick-note","children":[["$","strong",null,{"children":"Our pick:"}]," the ","Lumalyn Smart Animated Christmas Balcony Lights"," (400 pixel LEDs, app and remote, 2 m or 3 m). Specs and current price are on the"," ",["$","a",null,{"href":"https://lumalyn.store/","rel":"sponsored noopener","children":"partner store"}]," (partner link; we may earn from purchases)."]}]
+1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16130f"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+2e:I[27201,["$2"],"IconMark"]
+1a:null
+20:[["$","title","0",{"children":"Curtain Fairy Lights: Ideas, Colors and How Many to Buy"}],["$","meta","1",{"name":"description","content":"Curtain fairy lights ideas for windows, bedrooms and parties: warm white vs. color, plain vs. animated, and how many sets to buy. Get the look right first time."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","link","3",{"rel":"canonical","href":"https://curtainlights.pages.dev/curtain-fairy-lights/"}],["$","meta","4",{"property":"og:title","content":"Curtain Fairy Lights: Ideas, Colors and How Many to Buy"}],["$","meta","5",{"property":"og:description","content":"Curtain fairy lights ideas for windows, bedrooms and parties: warm white vs. color, plain vs. animated, and how many sets to buy. Get the look right first time."}],["$","meta","6",{"property":"og:url","content":"https://curtainlights.github.io/curtain-fairy-lights/"}],["$","meta","7",{"property":"og:image","content":"https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=1200"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"1200"}],["$","meta","10",{"property":"og:image:alt","content":"Curtain fairy lights glowing blue, purple and pink behind a living-room glass door while a person on the sofa holds a remote"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:modified_time","content":"2026-10-20"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Curtain Fairy Lights: Ideas, Colors and How Many to Buy"}],["$","meta","15",{"name":"twitter:description","content":"Curtain fairy lights ideas for windows, bedrooms and parties: warm white vs. color, plain vs. animated, and how many sets to buy. Get the look right first time."}],["$","meta","16",{"name":"twitter:image","content":"https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=1200"}],["$","link","17",{"rel":"icon","href":"/icon.svg?icon.2on7mg89f6ru9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2e","18",{}]]

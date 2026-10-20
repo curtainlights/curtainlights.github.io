@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/27gjg8e11zukd.js"
+3:I[22016,["$2"],""]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+15:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/2o0c0v9uu3fha.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+11:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L13","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"led-curtain-lights","s":[]},"h":66048,"d":{"r":"$L10","p":false,"v":"$11"},"c":"$Q12"}]]
+0:{"P":null,"c":["","led-curtain-lights",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2o0c0v9uu3fha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/27gjg8e11zukd.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-US","className":"_6R3VcG_variable -KQRRa_variable","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://curtainlights.pages.dev/#org\",\"name\":\"CurtainLights\",\"url\":\"https://curtainlights.pages.dev\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://curtainlights.pages.dev/images/logo.png\",\"width\":512,\"height\":512}},{\"@type\":\"WebSite\",\"@id\":\"https://curtainlights.pages.dev/#website\",\"name\":\"CurtainLights\",\"url\":\"https://curtainlights.pages.dev\",\"publisher\":{\"@id\":\"https://curtainlights.pages.dev/#org\"},\"inLanguage\":\"en-US\"}]}"}}],["$","a",null,{"className":"skip","href":"#content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap wide","children":[["$","$L3",null,{"href":"/","className":"brand","aria-label":"CurtainLights home","children":[["$","svg",null,{"viewBox":"0 0 64 64","width":30,"height":30,"aria-hidden":"true","children":[["$","defs",null,{"children":["$","linearGradient",null,{"id":"cl-g","x1":"0","y1":"0","x2":"1","y2":"1","children":[["$","stop",null,{"offset":"0","stopColor":"#fcd34d"}],["$","stop",null,{"offset":"1","stopColor":"#f59e0b"}]]}]}],["$","rect",null,{"width":"64","height":"64","rx":"16","fill":"url(#cl-g)"}],["$","path",null,{"d":"M14 15h36","stroke":"#1c1917","strokeWidth":"4","strokeLinecap":"round"}],[["$","g","20",{"fill":"#1c1917","children":[["$","circle","24",{"cx":20,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":20,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":20,"cy":42,"r":"3.2"}]]}],["$","g","32",{"fill":"#1c1917","children":[["$","circle","24",{"cx":32,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":32,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":32,"cy":42,"r":"3.2"}],["$","circle","51",{"cx":32,"cy":51,"r":"3.2"}]]}],["$","g","44",{"fill":"#1c1917","children":[["$","circle","24",{"cx":44,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":44,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":44,"cy":42,"r":"3.2"}]]}]]]}],["$","span",null,{"children":["Curtain",["$","b",null,{"children":"Lights"}]]}]]}],["$","nav",null,{"aria-label":"Main","children":[["$","$L3",null,{"href":"/led-curtain-lights/","children":"LED"}],["$","$L3",null,{"href":"/smart-curtain-lights/","children":"Smart"}],["$","$L3",null,{"href":"/outdoor-curtain-lights/","children":"Outdoor"}],["$","$L3",null,{"href":"/curtain-lights-size-guide/","children":"Size guide"}],false]}]]}]}],["$","div",null,{"id":"content","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"wrap article","children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["That page does not exist. Try the ",["$","$L3",null,{"href":"/","children":"home page"}]," or the ",["$","$L3",null,{"href":"/curtain-lights-size-guide/","children":"size guide"}],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap wide foot-grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"foot-brand","children":[["$","svg",null,{"viewBox":"0 0 64 64","width":26,"height":26,"aria-hidden":"true","children":[["$","defs",null,{"children":["$","linearGradient",null,{"id":"cl-g","x1":"0","y1":"0","x2":"1","y2":"1","children":[["$","stop",null,{"offset":"0","stopColor":"#fcd34d"}],["$","stop",null,{"offset":"1","stopColor":"#f59e0b"}]]}]}],["$","rect",null,{"width":"64","height":"64","rx":"16","fill":"url(#cl-g)"}],["$","path",null,{"d":"M14 15h36","stroke":"#1c1917","strokeWidth":"4","strokeLinecap":"round"}],[["$","g","20",{"fill":"#1c1917","children":[["$","circle","24",{"cx":20,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":20,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":20,"cy":42,"r":"3.2"}]]}],["$","g","32",{"fill":"#1c1917","children":[["$","circle","24",{"cx":32,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":32,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":32,"cy":42,"r":"3.2"}],["$","circle","51",{"cx":32,"cy":51,"r":"3.2"}]]}],["$","g","44",{"fill":"#1c1917","children":[["$","circle","24",{"cx":44,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":44,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":44,"cy":42,"r":"3.2"}]]}]]]}],["$","span",null,{"children":["Curtain",["$","b",null,{"children":"Lights"}]]}]]}],["$","p",null,{"children":["LED curtain lights for windows, balconies and every season","."]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"foot-h","children":"Guides"}],[["$","$L3","led-curtain-lights",{"href":"/led-curtain-lights/","children":"LED Curtain Lights"}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]]}],"$Ld"]}],"$Le"]}]]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":"$L14","p":false,"v":null}},"m":"$undefined","G":["$15",["$L16"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"MRNIz7RsT4TJrXpI2VkPB"}
+18:I[97367,["$2"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:"ViewportBoundary"
+1c:I[97367,["$2"],"$1b"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2"],"$1e"]
+6:["$","$L3","curtain-fairy-lights",{"href":"/curtain-fairy-lights/","children":"Curtain Fairy Lights"}]
+7:["$","$L3","smart-curtain-lights",{"href":"/smart-curtain-lights/","children":"Smart Curtain Lights"}]
+8:["$","$L3","outdoor-curtain-lights",{"href":"/outdoor-curtain-lights/","children":"Outdoor Curtain Lights"}]
+9:["$","$L3","window-curtain-lights",{"href":"/window-curtain-lights/","children":"Window Curtain Lights"}]
+a:["$","$L3","curtain-lights-for-bedroom",{"href":"/curtain-lights-for-bedroom/","children":"Curtain Lights for Bedroom"}]
+b:["$","$L3","halloween-curtain-lights",{"href":"/halloween-curtain-lights/","children":"Halloween Curtain Lights"}]
+c:["$","$L3","curtain-lights-size-guide",{"href":"/curtain-lights-size-guide/","children":"Curtain Lights Size Guide"}]
+d:["$","div",null,{"children":[["$","p",null,{"className":"foot-h","children":"About"}],["$","$L3",null,{"href":"/about/","children":"About us"}],["$","$L3",null,{"href":"/disclosure/","children":"Affiliate disclosure"}],["$","$L3",null,{"href":"/privacy/","children":"Privacy"}]]}]
+e:["$","div",null,{"className":"wrap wide fine","children":[["$","p",null,{"children":"CurtainLights is affiliated with Lumalyn. Links marked as partner links may earn us a commission at no extra cost to you. Product details are taken from the manufacturer’s published specifications."}],["$","p",null,{"children":["© ",2026," ","CurtainLights"]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":["$L17",null,["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}]
+14:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":"$L20"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2o0c0v9uu3fha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:C
+21:Tb05,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"LED Curtain Lights: How to Choose the Right Set for Windows and Balconies","description":"LED curtain lights explained: plain vs. animated pixel sets, sizes, LED density, power and weather ratings. Pick a curtain that fits and turns heads.","image":["https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"],"dateModified":"2026-10-20","datePublished":"2026-10-20","inLanguage":"en-US","mainEntityOfPage":"https://curtainlights.pages.dev/led-curtain-lights/","author":{"@type":"Organization","name":"CurtainLights editors","url":"https://curtainlights.pages.dev/about/"},"publisher":{"@id":"https://curtainlights.pages.dev/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://curtainlights.pages.dev/"},{"@type":"ListItem","position":2,"name":"LED Curtain Lights: Types, Sizes and How to Choose","item":"https://curtainlights.pages.dev/led-curtain-lights/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Are LED curtain lights worth it?","acceptedAnswer":{"@type":"Answer","text":"If you want a window or balcony that people notice, yes. A curtain fills an area instead of tracing a line, so it reads clearly from the street. Pixel curtains add the most value because one set can cover Christmas, birthdays, parties and other occasions all year."}},{"@type":"Question","name":"How many LEDs should a curtain light have?","acceptedAnswer":{"@type":"Answer","text":"It depends on the size and the job. For a soft glow the count matters less. For pictures and text, look at density: Lumalyn's 400 LEDs work out to about 9 per sq ft (100 per m²) on the 6 ft 7 in (2 m) set and about 4 per sq ft (44 per m²) on the 9 ft 10 in (3 m) set."}},{"@type":"Question","name":"Can LED curtain lights be used outside?","acceptedAnswer":{"@type":"Answer","text":"Only where the rating allows. IP44 sets like Lumalyn's suit covered balconies, porches and the inside of windows. Spots exposed to open rain call for IP65 or higher, and plugs and chargers must always stay dry."}},{"@type":"Question","name":"Do LED curtain lights use a lot of electricity?","acceptedAnswer":{"@type":"Answer","text":"LEDs typically draw far less power than old incandescent mini lights. Lumalyn's curtain runs on 5 V USB, so a standard phone charger or power bank can drive it. Lumalyn does not publish a wattage figure."}},{"@type":"Question","name":"What is the difference between fairy curtain lights and pixel curtain lights?","acceptedAnswer":{"@type":"Answer","text":"Fairy curtains switch all their LEDs together or in a few groups, so they glow, twinkle or fade. Pixel curtains control each LED on its own, which lets them draw pictures, scroll text and play animations."}}]}]}17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$21"}}],["$","main",null,{"className":"wrap article","children":[["$","p",null,{"className":"crumbs","children":[["$","$L3",null,{"href":"/","children":"Home"}]," › Guides"]}],["$","h1",null,{"children":"LED Curtain Lights: How to Choose the Right Set for Windows and Balconies"}],["$","p",null,{"className":"dek","children":"LED curtain lights explained: plain vs. animated pixel sets, sizes, LED density, power and weather ratings. Pick a curtain that fits and turns heads."}],"$L22","$L23","$L24","$L25","$L26",["$L27","$L28","$L29"],"$L2a","$L2b"]}],"$L2c",false]
+:HL["https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200","image",{"imageSrcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=480 480w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=720 720w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=960 960w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200 1200w","imageSizes":"(max-width: 760px) calc(100vw - 40px), 720px"}]
+22:["$","p",null,{"className":"meta","children":["By the ","CurtainLights"," editors · Updated ","October 20, 2026"," · ",6," min read · Based on manufacturer specs"]}]
+23:["$","p",null,{"className":"disclosure","children":["We are affiliated with Lumalyn and may earn from purchases through partner links, at no extra cost to you. ",["$","$L3",null,{"href":"/disclosure/","children":"How this works"}],"."]}]
+24:["$","figure",null,{"className":"lead","children":["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200","srcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=480 480w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=720 720w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=960 960w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200 1200w","sizes":"(max-width: 760px) calc(100vw - 40px), 720px","alt":"Animated LED curtain lights showing a colorful tree and snowflakes behind the glass railing of a city apartment balcony at night","width":1200,"height":1200}]}]
+25:["$","div",null,{"className":"takeaways","children":[["$","p",null,{"className":"box-h","children":"In short"}],["$","ul",null,{"children":[["$","li","Plain fairy curtains glow, twinkle or fade; pixel curtains control every LED, so they can show pictures, text and animations.",{"children":"Plain fairy curtains glow, twinkle or fade; pixel curtains control every LED, so they can show pictures, text and animations."}],["$","li","Density matters more than raw LED count: Lumalyn's 400 LEDs give about 9 per sq ft on the 6 ft 7 in (2 m) set and about 4 per sq ft on the 9 ft 10 in (3 m) set.",{"children":"Density matters more than raw LED count: Lumalyn's 400 LEDs give about 9 per sq ft on the 6 ft 7 in (2 m) set and about 4 per sq ft on the 9 ft 10 in (3 m) set."}],["$","li","Check power and weather before you buy: Lumalyn runs on 5 V USB (adapter not included) and is IP44, made for indoor and sheltered outdoor spots.",{"children":"Check power and weather before you buy: Lumalyn runs on 5 V USB (adapter not included) and is IP44, made for indoor and sheltered outdoor spots."}]]}]]}]
+26:["$","nav",null,{"className":"toc","aria-label":"In this guide","children":[["$","p",null,{"className":"box-h","children":"In this guide"}],["$","ol",null,{"children":[["$","li","what-led-curtain-lights-are",{"children":["$","a",null,{"href":"#what-led-curtain-lights-are","children":"What LED curtain lights are"}]}],["$","li","plain-fairy-curtains-vs-pixel-animated-curtains",{"children":["$","a",null,{"href":"#plain-fairy-curtains-vs-pixel-animated-curtains","children":"Plain fairy curtains vs. pixel (animated) curtains"}]}],["$","li","size-and-led-count-why-density-matters",{"children":["$","a",null,{"href":"#size-and-led-count-why-density-matters","children":"Size and LED count: why density matters"}]}],["$","li","power-plug-in-usb-or-battery",{"children":["$","a",null,{"href":"#power-plug-in-usb-or-battery","children":"Power: plug-in, USB or battery"}]}],["$","li","weather-ratings-where-you-can-hang-them",{"children":["$","a",null,{"href":"#weather-ratings-where-you-can-hang-them","children":"Weather ratings: where you can hang them"}]}],["$","li","controls-remote-app-music-and-timer",{"children":["$","a",null,{"href":"#controls-remote-app-music-and-timer","children":"Controls: remote, app, music and timer"}]}],["$","li","our-pick-lumalyn-smart-animated-christmas-balcony-lights",{"children":["$","a",null,{"href":"#our-pick-lumalyn-smart-animated-christmas-balcony-lights","children":"Our pick: Lumalyn Smart Animated Christmas Balcony Lights"}]}],["$","li","quick-checklist-before-you-buy",{"children":["$","a",null,{"href":"#quick-checklist-before-you-buy","children":"Quick checklist before you buy"}]}]]}]]}]
+27:["$","div","0",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"<p>The right LED curtain lights turn a dark window or balcony into the thing people slow down to look at. One sheet of light gives you a glowing wall. A smart pixel curtain goes further: that same wall can show falling snow, a scrolling &quot;Happy Birthday&quot; or a design you drew on your phone.</p>\n<p>Getting there is mostly about buying the right type and size for your space. This guide covers the choices that actually matter (pixel or plain, size, LED density, power, weather and controls) and ends with the one set we recommend.</p>\n<p>Disclosure: CurtainLights is affiliated with Lumalyn and may earn a commission if you buy through our links. That never changes the specs we report, and we point out the limits too.</p>\n"}}],["$","p",null,{"className":"pick-note","children":[["$","strong",null,{"children":"Our pick:"}]," the ","Lumalyn Smart Animated Christmas Balcony Lights"," (400 pixel LEDs, app and remote, 2 m or 3 m). Specs and current price are on the"," ",["$","a",null,{"href":"https://lumalyn.store/","rel":"sponsored noopener","children":"partner store"}]," (partner link; we may earn from purchases)."]}]]}]
+2d:T2200,<h2 id="what-led-curtain-lights-are">What LED curtain lights are</h2>
+<p>An LED curtain is a row of thin light strands hanging from one top cable, a bit like a bead curtain made of tiny bulbs. You hang the top line from hooks, a rod or a frame, and the strands drop down to fill a rectangle with light.</p>
+<p>Because it covers an area rather than a line, a curtain fills a window or a glass balcony in a way a single string never can. It also reads well from a distance. That&#39;s why curtains are a favorite for street-facing windows, balcony glass, party backdrops and bedroom walls.</p>
+<p>Modern sets fall into two families, and picking between them is the biggest decision you&#39;ll make.</p>
+<h2 id="plain-fairy-curtains-vs-pixel-animated-curtains">Plain fairy curtains vs. pixel (animated) curtains</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Plain fairy curtain</th>
+<th>Pixel (animated) curtain</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>How LEDs are switched</td>
+<td>All together, or in a few groups</td>
+<td>Each LED on its own</td>
+</tr>
+<tr>
+<td>What it can show</td>
+<td>Steady glow, twinkle, fade, chase</td>
+<td>Pictures, scrolling text, animations, color patterns</td>
+</tr>
+<tr>
+<td>Colors</td>
+<td>Usually one color or a fixed mix</td>
+<td>Typically full RGB, any color on any LED</td>
+</tr>
+<tr>
+<td>Controls</td>
+<td>Often a button box or basic remote</td>
+<td>App, remote, music sync, timer</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>Soft background glow</td>
+<td>A display people stop and watch</td>
+</tr>
+</tbody></table>
+<p>A <strong>plain fairy curtain</strong> is lovely behind sheer drapes or above a bed. Many sets offer a handful of preset modes, and that&#39;s the whole menu.</p>
+<p>A <strong>pixel curtain</strong> treats every LED as a dot on a large, soft screen. That&#39;s what lets it draw a tree, a heart or a name. It costs more than a basic string, but one curtain can carry you through Christmas, a birthday, game night and Halloween instead of sitting in a box eleven months a year.</p>
+<p>If you only want a warm glow, start with our <a href="/curtain-fairy-lights/">curtain fairy lights guide</a>. If you want a window that changes with the calendar, a pixel curtain is the better buy.</p>
+<h2 id="size-and-led-count-why-density-matters">Size and LED count: why density matters</h2>
+<p>Curtains are sold by width × drop. You&#39;ll often see sizes from about 3 ft 3 in (1 m) square up to 9 ft 10 in (3 m) square, with the total LED count listed beside the size.</p>
+<p>For a plain curtain, more LEDs mostly means more glow. For a pixel curtain, the number to watch is <strong>density</strong>: how many LEDs share each square foot. Pictures and letters look crisper when the dots sit closer together.</p>
+<p>Lumalyn&#39;s curtain shows this clearly, because both sizes carry the same 400 LEDs:</p>
+<table>
+<thead>
+<tr>
+<th>Lumalyn size</th>
+<th>Area</th>
+<th>LEDs</th>
+<th>Density (approx.)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>6 ft 7 in × 6 ft 7 in (2 × 2 m)</td>
+<td>43 sq ft (4 m²)</td>
+<td>400</td>
+<td>9 per sq ft (100 per m²)</td>
+</tr>
+<tr>
+<td>9 ft 10 in × 9 ft 10 in (3 × 3 m)</td>
+<td>97 sq ft (9 m²)</td>
+<td>400</td>
+<td>4 per sq ft (44 per m²)</td>
+</tr>
+</tbody></table>
+<p>On paper, the smaller set is more than twice as dense, so designs and text look sharper. The larger set spreads the same pixels across a big glass door or a tall wall, so it reads more like a soft, wide light show. Our <a href="/curtain-lights-size-guide/">curtain lights size guide</a> walks you through measuring and choosing between them.</p>
+<h2 id="power-plug-in-usb-or-battery">Power: plug-in, USB or battery</h2>
+<p>Curtain lights run on low voltage, but they get it in different ways:</p>
+<ul>
+<li><strong>Mains adapter.</strong> Many plain curtains come with a plug-in transformer. Simple, but you need an outlet close by.</li>
+<li><strong>USB.</strong> A growing number of sets, Lumalyn&#39;s included, take 5 V USB. Any phone charger works, and so does a power bank, which is handy on a balcony with no outlet.</li>
+<li><strong>Batteries.</strong> Some small curtains run on AA cells. Fine for one party, tiresome for nightly use.</li>
+</ul>
+<p>One thing to know up front: Lumalyn does <strong>not</strong> include a USB adapter in the box. Most homes have a spare phone charger in a drawer, but check before the curtain arrives so the first evening isn&#39;t spent hunting for one. The remote also needs AAA batteries, which aren&#39;t included.</p>
+<h2 id="weather-ratings-where-you-can-hang-them">Weather ratings: where you can hang them</h2>
+<p>Outdoor use comes down to the IP rating. The second digit tells you how well the set keeps water out:</p>
+<table>
+<thead>
+<tr>
+<th>Rating</th>
+<th>Water protection</th>
+<th>Good for</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>IP20</td>
+<td>None</td>
+<td>Indoors only</td>
+</tr>
+<tr>
+<td>IP44</td>
+<td>Splashing from any direction</td>
+<td>Indoors, covered balconies, porches, inside windows</td>
+</tr>
+<tr>
+<td>IP65</td>
+<td>Water jets</td>
+<td>Exposed spots in open rain</td>
+</tr>
+<tr>
+<td>IP67</td>
+<td>Temporary immersion</td>
+<td>Low spots where water can pool</td>
+</tr>
+</tbody></table>
+<p>Lumalyn&#39;s curtain is IP44: splash resistant and rated for indoor and sheltered outdoor use. That fits a balcony under the floor above, a covered porch or the inside of a street-facing window. It isn&#39;t made for open rain, and the USB plug and charger must stay dry. Our <a href="/outdoor-curtain-lights/">outdoor curtain lights guide</a> covers covered vs. exposed spots and safe power in detail.</p>
+<h2 id="controls-remote-app-music-and-timer">Controls: remote, app, music and timer</h2>
+<p>How you control a curtain decides whether you&#39;ll still enjoy it in week three.</p>
+<ul>
+<li><strong>Remote:</strong> fast on/off and mode changes from the sofa.</li>
+<li><strong>App:</strong> browse scenes, pick colors, set brightness and speed.</li>
+<li><strong>Music sync:</strong> the lights move with the music in the room.</li>
+<li><strong>Timer:</strong> the curtain switches on and off by itself.</li>
+</ul>
+<p>Lumalyn pairs a Bluetooth app for iOS and Android with a remote. No Wi-Fi network is needed. The trade-off is that Bluetooth works from nearby, so you control it while you&#39;re home rather than from across town. For a window or balcony, that&#39;s usually when you&#39;re enjoying it anyway. The timer handles the rest. Our <a href="/smart-curtain-lights/">smart curtain lights guide</a> compares Bluetooth and Wi-Fi control.</p>
+<h2 id="our-pick-lumalyn-smart-animated-christmas-balcony-lights">Our pick: Lumalyn Smart Animated Christmas Balcony Lights</h2>
+<p>Despite the Christmas name, this is a year-round pixel curtain. Here&#39;s what Lumalyn lists:</p>
+<ul>
+<li>400 individually controlled LEDs and 16 million colors</li>
+<li>100+ animated scenes: Christmas, snow and winter, festive messages, color patterns, other holiday themes and ambient lighting</li>
+<li>DIY mode to draw your own pixel designs or type scrolling text</li>
+<li>5 music-sync modes, adjustable brightness and speed, and a timer</li>
+<li>Bluetooth app (iOS and Android) plus a remote</li>
+<li>5 V USB power and an IP44 rating for indoor and sheltered outdoor use</li>
+<li>In the box: the curtain, a USB controller, the remote and hanging hooks</li>
+</ul>
+<p><strong>Where it shines:</strong> street-facing windows, covered balconies and party walls where you want pictures and messages, not just glow.</p>
+<p><strong>Where to think twice:</strong> spots fully open to rain, or if you need to control the lights from work over Wi-Fi.</p>
+<p>The buying risk is low. Lumalyn ships free with tracking worldwide, dispatches in 1–3 business days and quotes about 7–12 business days for delivery. You get 30-day returns with a free return label and a 2-year warranty. Covering a long railing? Two sets are 10% off and three are 20% off. Import duties may apply depending on your country, and for Christmas delivery, order by December 10.</p>
+<h2 id="quick-checklist-before-you-buy">Quick checklist before you buy</h2>
+<ol>
+<li>Measure the width and drop of your window, door or balcony.</li>
+<li>Decide on soft glow (plain) or pictures and text (pixel).</li>
+<li>Choose your density: with the same LED count, a smaller curtain looks sharper.</li>
+<li>Confirm the spot is covered if the set is IP44.</li>
+<li>Have a USB charger or power bank ready.</li>
+<li>Read the return window and warranty.</li>
+</ol>
+<p>If a curtain that changes with every season and occasion sounds right, Lumalyn&#39;s set is the one we&#39;d hang in the window. <a href="https://lumalyn.store/" rel="sponsored noopener">See the Lumalyn curtain</a>.</p>
+28:["$","div","1",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2d"}}],"$L2e"]}]
+29:["$","div","2",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":""}}],false]}]
+2a:["$","section",null,{"className":"faq","aria-labelledby":"faq","children":[["$","h2",null,{"id":"faq","children":"Frequently asked questions"}],[["$","details","Are LED curtain lights worth it?",{"children":[["$","summary",null,{"children":"Are LED curtain lights worth it?"}],["$","p",null,{"children":"If you want a window or balcony that people notice, yes. A curtain fills an area instead of tracing a line, so it reads clearly from the street. Pixel curtains add the most value because one set can cover Christmas, birthdays, parties and other occasions all year."}]]}],["$","details","How many LEDs should a curtain light have?",{"children":[["$","summary",null,{"children":"How many LEDs should a curtain light have?"}],["$","p",null,{"children":"It depends on the size and the job. For a soft glow the count matters less. For pictures and text, look at density: Lumalyn's 400 LEDs work out to about 9 per sq ft (100 per m²) on the 6 ft 7 in (2 m) set and about 4 per sq ft (44 per m²) on the 9 ft 10 in (3 m) set."}]]}],["$","details","Can LED curtain lights be used outside?",{"children":[["$","summary",null,{"children":"Can LED curtain lights be used outside?"}],["$","p",null,{"children":"Only where the rating allows. IP44 sets like Lumalyn's suit covered balconies, porches and the inside of windows. Spots exposed to open rain call for IP65 or higher, and plugs and chargers must always stay dry."}]]}],["$","details","Do LED curtain lights use a lot of electricity?",{"children":[["$","summary",null,{"children":"Do LED curtain lights use a lot of electricity?"}],["$","p",null,{"children":"LEDs typically draw far less power than old incandescent mini lights. Lumalyn's curtain runs on 5 V USB, so a standard phone charger or power bank can drive it. Lumalyn does not publish a wattage figure."}]]}],["$","details","What is the difference between fairy curtain lights and pixel curtain lights?",{"children":[["$","summary",null,{"children":"What is the difference between fairy curtain lights and pixel curtain lights?"}],["$","p",null,{"children":"Fairy curtains switch all their LEDs together or in a few groups, so they glow, twinkle or fade. Pixel curtains control each LED on its own, which lets them draw pictures, scroll text and play animations."}]]}]]]}]
+2b:["$","section",null,{"className":"sources","children":[["$","p",null,{"className":"box-h","children":"Sources"}],["$","ul",null,{"children":[["$","li","https://lumalyn.store/products/smart-animated-christmas-balcony-lights",{"children":["$","a",null,{"href":"https://lumalyn.store/products/smart-animated-christmas-balcony-lights","rel":"sponsored noopener","children":"Lumalyn Smart Animated Christmas Balcony Lights (product page)"}]}],["$","li","https://lumalyn.store/policies/shipping-policy",{"children":["$","a",null,{"href":"https://lumalyn.store/policies/shipping-policy","rel":"sponsored noopener","children":"Lumalyn shipping policy"}]}],["$","li","https://lumalyn.store/policies/refund-policy",{"children":["$","a",null,{"href":"https://lumalyn.store/policies/refund-policy","rel":"sponsored noopener","children":"Lumalyn refund and warranty policy"}]}],["$","li","https://en.wikipedia.org/wiki/IP_code",{"children":["$","a",null,{"href":"https://en.wikipedia.org/wiki/IP_code","rel":"noopener","children":"IP code (Wikipedia)"}]}]]}]]}]
+2c:["$","section",null,{"className":"wrap wide related","aria-labelledby":"related","children":[["$","h2",null,{"id":"related","className":"section-h","children":"More curtain light guides"}],["$","div",null,{"className":"guide-grid","children":[["$","$L3","curtain-fairy-lights",{"href":"/curtain-fairy-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"Curtain Fairy Lights: Home Ideas, Colors and How Many You Need"}]]}],["$","$L3","smart-curtain-lights",{"href":"/smart-curtain-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"Smart Curtain Lights: What App Control Adds and Who Really Needs It"}]]}],["$","$L3","outdoor-curtain-lights",{"href":"/outdoor-curtain-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"Outdoor Curtain Lights: IP Ratings, Safe Power and Where to Put Them"}]]}]]}]]}]
+2e:["$","p",null,{"className":"pick-note","children":[["$","strong",null,{"children":"Our pick:"}]," the ","Lumalyn Smart Animated Christmas Balcony Lights"," (400 pixel LEDs, app and remote, 2 m or 3 m). Specs and current price are on the"," ",["$","a",null,{"href":"https://lumalyn.store/","rel":"sponsored noopener","children":"partner store"}]," (partner link; we may earn from purchases)."]}]
+1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16130f"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+2f:I[27201,["$2"],"IconMark"]
+1a:null
+20:[["$","title","0",{"children":"LED Curtain Lights: Types, Sizes and How to Choose"}],["$","meta","1",{"name":"description","content":"LED curtain lights explained: plain vs. animated pixel sets, sizes, LED density, power and weather ratings. Pick a curtain that fits and turns heads."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","link","3",{"rel":"canonical","href":"https://curtainlights.pages.dev/led-curtain-lights/"}],["$","meta","4",{"property":"og:title","content":"LED Curtain Lights: Types, Sizes and How to Choose"}],["$","meta","5",{"property":"og:description","content":"LED curtain lights explained: plain vs. animated pixel sets, sizes, LED density, power and weather ratings. Pick a curtain that fits and turns heads."}],["$","meta","6",{"property":"og:url","content":"https://curtainlights.github.io/led-curtain-lights/"}],["$","meta","7",{"property":"og:image","content":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"1200"}],["$","meta","10",{"property":"og:image:alt","content":"Animated LED curtain lights showing a colorful tree and snowflakes behind the glass railing of a city apartment balcony at night"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:modified_time","content":"2026-10-20"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"LED Curtain Lights: Types, Sizes and How to Choose"}],["$","meta","15",{"name":"twitter:description","content":"LED curtain lights explained: plain vs. animated pixel sets, sizes, LED density, power and weather ratings. Pick a curtain that fits and turns heads."}],["$","meta","16",{"name":"twitter:image","content":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"}],["$","link","17",{"rel":"icon","href":"/icon.svg?icon.2on7mg89f6ru9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2f","18",{}]]

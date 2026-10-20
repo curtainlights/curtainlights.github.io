@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/27gjg8e11zukd.js"
+3:I[22016,["$2"],""]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+15:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/2o0c0v9uu3fha.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+11:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L13","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"smart-curtain-lights","s":[]},"h":66048,"d":{"r":"$L10","p":false,"v":"$11"},"c":"$Q12"}]]
+0:{"P":null,"c":["","smart-curtain-lights",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2o0c0v9uu3fha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/27gjg8e11zukd.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-US","className":"_6R3VcG_variable -KQRRa_variable","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://curtainlights.pages.dev/#org\",\"name\":\"CurtainLights\",\"url\":\"https://curtainlights.pages.dev\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://curtainlights.pages.dev/images/logo.png\",\"width\":512,\"height\":512}},{\"@type\":\"WebSite\",\"@id\":\"https://curtainlights.pages.dev/#website\",\"name\":\"CurtainLights\",\"url\":\"https://curtainlights.pages.dev\",\"publisher\":{\"@id\":\"https://curtainlights.pages.dev/#org\"},\"inLanguage\":\"en-US\"}]}"}}],["$","a",null,{"className":"skip","href":"#content","children":"Skip to content"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"wrap wide","children":[["$","$L3",null,{"href":"/","className":"brand","aria-label":"CurtainLights home","children":[["$","svg",null,{"viewBox":"0 0 64 64","width":30,"height":30,"aria-hidden":"true","children":[["$","defs",null,{"children":["$","linearGradient",null,{"id":"cl-g","x1":"0","y1":"0","x2":"1","y2":"1","children":[["$","stop",null,{"offset":"0","stopColor":"#fcd34d"}],["$","stop",null,{"offset":"1","stopColor":"#f59e0b"}]]}]}],["$","rect",null,{"width":"64","height":"64","rx":"16","fill":"url(#cl-g)"}],["$","path",null,{"d":"M14 15h36","stroke":"#1c1917","strokeWidth":"4","strokeLinecap":"round"}],[["$","g","20",{"fill":"#1c1917","children":[["$","circle","24",{"cx":20,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":20,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":20,"cy":42,"r":"3.2"}]]}],["$","g","32",{"fill":"#1c1917","children":[["$","circle","24",{"cx":32,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":32,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":32,"cy":42,"r":"3.2"}],["$","circle","51",{"cx":32,"cy":51,"r":"3.2"}]]}],["$","g","44",{"fill":"#1c1917","children":[["$","circle","24",{"cx":44,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":44,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":44,"cy":42,"r":"3.2"}]]}]]]}],["$","span",null,{"children":["Curtain",["$","b",null,{"children":"Lights"}]]}]]}],["$","nav",null,{"aria-label":"Main","children":[["$","$L3",null,{"href":"/led-curtain-lights/","children":"LED"}],["$","$L3",null,{"href":"/smart-curtain-lights/","children":"Smart"}],["$","$L3",null,{"href":"/outdoor-curtain-lights/","children":"Outdoor"}],["$","$L3",null,{"href":"/curtain-lights-size-guide/","children":"Size guide"}],false]}]]}]}],["$","div",null,{"id":"content","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"wrap article","children":[["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":["That page does not exist. Try the ",["$","$L3",null,{"href":"/","children":"home page"}]," or the ",["$","$L3",null,{"href":"/curtain-lights-size-guide/","children":"size guide"}],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"wrap wide foot-grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"foot-brand","children":[["$","svg",null,{"viewBox":"0 0 64 64","width":26,"height":26,"aria-hidden":"true","children":[["$","defs",null,{"children":["$","linearGradient",null,{"id":"cl-g","x1":"0","y1":"0","x2":"1","y2":"1","children":[["$","stop",null,{"offset":"0","stopColor":"#fcd34d"}],["$","stop",null,{"offset":"1","stopColor":"#f59e0b"}]]}]}],["$","rect",null,{"width":"64","height":"64","rx":"16","fill":"url(#cl-g)"}],["$","path",null,{"d":"M14 15h36","stroke":"#1c1917","strokeWidth":"4","strokeLinecap":"round"}],[["$","g","20",{"fill":"#1c1917","children":[["$","circle","24",{"cx":20,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":20,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":20,"cy":42,"r":"3.2"}]]}],["$","g","32",{"fill":"#1c1917","children":[["$","circle","24",{"cx":32,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":32,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":32,"cy":42,"r":"3.2"}],["$","circle","51",{"cx":32,"cy":51,"r":"3.2"}]]}],["$","g","44",{"fill":"#1c1917","children":[["$","circle","24",{"cx":44,"cy":24,"r":"3.2"}],["$","circle","33",{"cx":44,"cy":33,"r":"3.2"}],["$","circle","42",{"cx":44,"cy":42,"r":"3.2"}]]}]]]}],["$","span",null,{"children":["Curtain",["$","b",null,{"children":"Lights"}]]}]]}],["$","p",null,{"children":["LED curtain lights for windows, balconies and every season","."]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"foot-h","children":"Guides"}],[["$","$L3","led-curtain-lights",{"href":"/led-curtain-lights/","children":"LED Curtain Lights"}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]]}],"$Ld"]}],"$Le"]}]]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":"$L14","p":false,"v":null}},"m":"$undefined","G":["$15",["$L16"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"MRNIz7RsT4TJrXpI2VkPB"}
+18:I[97367,["$2"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:"ViewportBoundary"
+1c:I[97367,["$2"],"$1b"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2"],"$1e"]
+6:["$","$L3","curtain-fairy-lights",{"href":"/curtain-fairy-lights/","children":"Curtain Fairy Lights"}]
+7:["$","$L3","smart-curtain-lights",{"href":"/smart-curtain-lights/","children":"Smart Curtain Lights"}]
+8:["$","$L3","outdoor-curtain-lights",{"href":"/outdoor-curtain-lights/","children":"Outdoor Curtain Lights"}]
+9:["$","$L3","window-curtain-lights",{"href":"/window-curtain-lights/","children":"Window Curtain Lights"}]
+a:["$","$L3","curtain-lights-for-bedroom",{"href":"/curtain-lights-for-bedroom/","children":"Curtain Lights for Bedroom"}]
+b:["$","$L3","halloween-curtain-lights",{"href":"/halloween-curtain-lights/","children":"Halloween Curtain Lights"}]
+c:["$","$L3","curtain-lights-size-guide",{"href":"/curtain-lights-size-guide/","children":"Curtain Lights Size Guide"}]
+d:["$","div",null,{"children":[["$","p",null,{"className":"foot-h","children":"About"}],["$","$L3",null,{"href":"/about/","children":"About us"}],["$","$L3",null,{"href":"/disclosure/","children":"Affiliate disclosure"}],["$","$L3",null,{"href":"/privacy/","children":"Privacy"}]]}]
+e:["$","div",null,{"className":"wrap wide fine","children":[["$","p",null,{"children":"CurtainLights is affiliated with Lumalyn. Links marked as partner links may earn us a commission at no extra cost to you. Product details are taken from the manufacturer’s published specifications."}],["$","p",null,{"children":["© ",2026," ","CurtainLights"]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":["$L17",null,["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}]
+14:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":"$L20"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2o0c0v9uu3fha.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:C
+21:Ta05,{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Smart Curtain Lights: What App Control Adds and Who Really Needs It","description":"Smart curtain lights explained: Bluetooth vs. Wi-Fi apps, pixel animations, music sync, DIY drawing and timers. Find out if smart is worth it for your home.","image":["https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"],"dateModified":"2026-10-20","datePublished":"2026-10-20","inLanguage":"en-US","mainEntityOfPage":"https://curtainlights.pages.dev/smart-curtain-lights/","author":{"@type":"Organization","name":"CurtainLights editors","url":"https://curtainlights.pages.dev/about/"},"publisher":{"@id":"https://curtainlights.pages.dev/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://curtainlights.pages.dev/"},{"@type":"ListItem","position":2,"name":"Smart Curtain Lights: App Control, Pixels and Music Sync","item":"https://curtainlights.pages.dev/smart-curtain-lights/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do smart curtain lights need Wi-Fi?","acceptedAnswer":{"@type":"Answer","text":"No. Some connect over Wi-Fi, but many use Bluetooth, which pairs directly with your phone. Lumalyn's curtain uses Bluetooth plus a remote, so it needs no Wi-Fi, though you control it from nearby."}},{"@type":"Question","name":"What's the difference between app controlled curtain lights and remote-only sets?","acceptedAnswer":{"@type":"Answer","text":"A remote typically switches between a handful of preset modes. An app adds finer control: any color, brightness, speed and timers, and on pixel curtains, pictures, scrolling text and your own drawings."}},{"@type":"Question","name":"Do smart curtain lights work with Alexa or Google Home?","acceptedAnswer":{"@type":"Answer","text":"Some Wi-Fi sets do. Lumalyn doesn't list voice-assistant support for its Bluetooth curtain, so if voice control is essential, choose a Wi-Fi model that states it clearly."}},{"@type":"Question","name":"How far away can I control Bluetooth curtain lights?","acceptedAnswer":{"@type":"Answer","text":"Bluetooth typically reaches up to about 33 ft (10 m) in open space, and walls cut that down. Plan on controlling the lights from the same room or one nearby."}},{"@type":"Question","name":"Can I make my own designs on smart curtain lights?","acceptedAnswer":{"@type":"Answer","text":"On pixel curtains, yes. Lumalyn's DIY mode lets you draw your own pixel designs or type scrolling text in the app."}}]}]}17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$21"}}],["$","main",null,{"className":"wrap article","children":[["$","p",null,{"className":"crumbs","children":[["$","$L3",null,{"href":"/","children":"Home"}]," › Guides"]}],["$","h1",null,{"children":"Smart Curtain Lights: What App Control Adds and Who Really Needs It"}],["$","p",null,{"className":"dek","children":"Smart curtain lights explained: Bluetooth vs. Wi-Fi apps, pixel animations, music sync, DIY drawing and timers. Find out if smart is worth it for your home."}],["$","p",null,{"className":"meta","children":["By the ","CurtainLights"," editors · Updated ","October 20, 2026"," · ",6," min read · Based on manufacturer specs"]}],["$","p",null,{"className":"disclosure","children":["We are affiliated with Lumalyn and may earn from purchases through partner links, at no extra cost to you. ","$L22","."]}],"$L23","$L24","$L25",["$L26","$L27","$L28"],"$L29","$L2a"]}],"$L2b",false]
+:HL["https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200","image",{"imageSrcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=480 480w, https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=720 720w, https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=960 960w, https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200 1200w","imageSizes":"(max-width: 760px) calc(100vw - 40px), 720px"}]
+22:["$","$L3",null,{"href":"/disclosure/","children":"How this works"}]
+23:["$","figure",null,{"className":"lead","children":["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200","srcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=480 480w, https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=720 720w, https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=960 960w, https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200 1200w","sizes":"(max-width: 760px) calc(100vw - 40px), 720px","alt":"Smart curtain lights on a high-rise glass balcony showing a pixel angel and a golden star above the city at night","width":1024,"height":1024}]}]
+24:["$","div",null,{"className":"takeaways","children":[["$","p",null,{"className":"box-h","children":"In short"}],["$","ul",null,{"children":[["$","li","Smart pays off when each LED is individually controlled: that's what turns an app into pictures, scrolling text and animations.",{"children":"Smart pays off when each LED is individually controlled: that's what turns an app into pictures, scrolling text and animations."}],["$","li","Bluetooth needs no Wi-Fi and no network setup but works only from nearby; Wi-Fi sets typically add away-from-home and voice control.",{"children":"Bluetooth needs no Wi-Fi and no network setup but works only from nearby; Wi-Fi sets typically add away-from-home and voice control."}],["$","li","Lumalyn's 400-pixel curtain pairs a Bluetooth app with a remote, a timer, five music-sync modes and a DIY drawing mode.",{"children":"Lumalyn's 400-pixel curtain pairs a Bluetooth app with a remote, a timer, five music-sync modes and a DIY drawing mode."}]]}]]}]
+25:["$","nav",null,{"className":"toc","aria-label":"In this guide","children":[["$","p",null,{"className":"box-h","children":"In this guide"}],["$","ol",null,{"children":[["$","li","what-makes-curtain-lights-smart",{"children":["$","a",null,{"href":"#what-makes-curtain-lights-smart","children":"What makes curtain lights smart"}]}],["$","li","bluetooth-vs-wi-fi-the-real-trade-off",{"children":["$","a",null,{"href":"#bluetooth-vs-wi-fi-the-real-trade-off","children":"Bluetooth vs. Wi-Fi: the real trade-off"}]}],["$","li","pixel-effects-what-400-individually-controlled-leds-buy-you",{"children":["$","a",null,{"href":"#pixel-effects-what-400-individually-controlled-leds-buy-you","children":"Pixel effects: what 400 individually controlled LEDs buy you"}]}],["$","li","music-sync-diy-drawing-and-scrolling-text",{"children":["$","a",null,{"href":"#music-sync-diy-drawing-and-scrolling-text","children":"Music sync, DIY drawing and scrolling text"}]}],["$","li","timers-and-the-remote-the-features-you-39-ll-use-daily",{"children":["$","a",null,{"href":"#timers-and-the-remote-the-features-you-39-ll-use-daily","children":"Timers and the remote: the features you&#39;ll use daily"}]}],["$","li","who-actually-needs-smart-curtain-lights",{"children":["$","a",null,{"href":"#who-actually-needs-smart-curtain-lights","children":"Who actually needs smart curtain lights?"}]}],["$","li","practical-checks-before-you-buy",{"children":["$","a",null,{"href":"#practical-checks-before-you-buy","children":"Practical checks before you buy"}]}],["$","li","our-verdict-on-smart-curtain-lights",{"children":["$","a",null,{"href":"#our-verdict-on-smart-curtain-lights","children":"Our verdict on smart curtain lights"}]}]]}]]}]
+26:["$","div","0",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"<p>Tap your phone, and your window becomes a slow snowfall. Tap again, and &quot;Welcome home&quot; scrolls across it, or the whole curtain starts pulsing to your playlist. That&#39;s the promise of smart curtain lights: a light curtain that behaves more like a screen than a string of bulbs.</p>\n<p>But &quot;smart&quot; covers a lot of ground, from a basic app with an on/off button to curtains where every LED is its own pixel. This guide explains what the app really adds, how Bluetooth and Wi-Fi compare, what pixel effects, music sync, DIY drawing and timers do, and who actually needs them. Our pick is the Lumalyn Smart Animated Christmas Balcony Lights, a 400-pixel curtain with a Bluetooth app and a remote. CurtainLights is affiliated with Lumalyn and may earn a commission if you buy through our links.</p>\n"}}],["$","p",null,{"className":"pick-note","children":[["$","strong",null,{"children":"Our pick:"}]," the ","Lumalyn Smart Animated Christmas Balcony Lights"," (400 pixel LEDs, app and remote, 2 m or 3 m). Specs and current price are on the"," ",["$","a",null,{"href":"https://lumalyn.store/","rel":"sponsored noopener","children":"partner store"}]," (partner link; we may earn from purchases)."]}]]}]
+2c:T1e72,<h2 id="what-makes-curtain-lights-smart">What makes curtain lights smart</h2>
+<p>Smart curtain lights typically fall into three tiers, and the tier matters more than the word &quot;smart&quot; on the box.</p>
+<table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>How you control it</th>
+<th>What it can do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Basic</td>
+<td>A button on the cable or a simple remote</td>
+<td>On, off and a few preset modes</td>
+</tr>
+<tr>
+<td>App-controlled color</td>
+<td>An app changes the whole curtain or whole strands</td>
+<td>Colors, brightness, presets, often a timer</td>
+</tr>
+<tr>
+<td>Pixel (addressable)</td>
+<td>An app sets every LED individually</td>
+<td>Pictures, scrolling text, animations, your own drawings</td>
+</tr>
+</tbody></table>
+<p>The jump from the second tier to the third is the big one. Once each LED can be set on its own, the curtain works like a low-resolution display. The Lumalyn set sits in that third tier with 400 individually controlled LEDs. For a broader look at curtain types, see /led-curtain-lights/.</p>
+<h2 id="bluetooth-vs-wi-fi-the-real-trade-off">Bluetooth vs. Wi-Fi: the real trade-off</h2>
+<p>App controlled curtain lights reach your phone in one of two ways, and each has a catch.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Bluetooth</th>
+<th>Wi-Fi</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Setup</td>
+<td>Pair your phone directly with the lights</td>
+<td>Join the lights to your home network, typically through an account</td>
+</tr>
+<tr>
+<td>Where you can control it</td>
+<td>Nearby: typically up to about 33 ft (10 m), less through walls</td>
+<td>Anywhere with an internet connection</td>
+</tr>
+<tr>
+<td>If your internet goes down</td>
+<td>Still works</td>
+<td>Depends on the set</td>
+</tr>
+<tr>
+<td>Voice assistants</td>
+<td>Rarely</td>
+<td>Commonly supported</td>
+</tr>
+<tr>
+<td>Adds a device to your network</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+</tbody></table>
+<p>Lumalyn&#39;s curtain uses Bluetooth with an app for iOS and Android, plus a physical remote, and needs no Wi-Fi. On paper that&#39;s the simpler setup, with nothing joining your home network, and for a living room, bedroom or balcony you&#39;re standing next to, range is rarely a problem. The trade-off is real, though: you can&#39;t switch it on from the office, and Lumalyn doesn&#39;t list Alexa or Google Home support. If voice control matters to you, a Wi-Fi set is the better fit.</p>
+<h2 id="pixel-effects-what-400-individually-controlled-leds-buy-you">Pixel effects: what 400 individually controlled LEDs buy you</h2>
+<p>Each LED on a pixel curtain can show its own color at its own moment, which is what makes moving pictures possible. Lumalyn lists 100+ animated scenes across Christmas, snow and winter, festive messages, color patterns, other holiday themes and ambient lighting, with 16 million colors and adjustable brightness and speed.</p>
+<p>Size changes how sharp those pictures look. Both Lumalyn sizes have 400 LEDs:</p>
+<table>
+<thead>
+<tr>
+<th>Size</th>
+<th>LED density</th>
+<th>Picture quality</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>6 ft 7 in × 6 ft 7 in (2 × 2 m)</td>
+<td>about 100 LEDs/m² (roughly 9 per sq ft)</td>
+<td>Sharper shapes and easier-to-read text</td>
+</tr>
+<tr>
+<td>9 ft 10 in × 9 ft 10 in (3 × 3 m)</td>
+<td>about 44 LEDs/m² (roughly 4 per sq ft)</td>
+<td>Bigger and softer, best seen from a distance</td>
+</tr>
+</tbody></table>
+<p>If you mostly want images and words, the 2 m set is the smarter pick. Our /curtain-lights-size-guide/ goes deeper on measuring.</p>
+<h2 id="music-sync-diy-drawing-and-scrolling-text">Music sync, DIY drawing and scrolling text</h2>
+<p>These are the features that make people pull out their phones to film your window.</p>
+<ul>
+<li><strong>Music sync.</strong> Lumalyn lists five music-sync modes that make the display move with whatever&#39;s playing. It&#39;s the party trick: put on a playlist and the curtain becomes part of the room.</li>
+<li><strong>DIY drawing.</strong> Draw your own pixel designs in the app: a heart, your team&#39;s colors, a birthday cake, or a pumpkin for /halloween-curtain-lights/. Simple, bold shapes work best on a grid.</li>
+<li><strong>Scrolling text.</strong> Type a message and it scrolls across the curtain: &quot;Happy birthday Mia&quot;, &quot;Welcome home&quot;, &quot;Go team&quot;. One tip: a light curtain is visible from both sides, but text reads correctly from only one. Lumalyn doesn&#39;t list a mirror setting, so check your message from where people will see it.</li>
+</ul>
+<h2 id="timers-and-the-remote-the-features-you-39-ll-use-daily">Timers and the remote: the features you&#39;ll use daily</h2>
+<p>The flashy features get the attention, but the plain ones decide whether you still love the lights a month later. Lumalyn lists a timer that turns the curtain on and off automatically, which covers the main reason people want remote access in the first place: a display that&#39;s on every evening without anyone touching it.</p>
+<p>The remote matters too. Guests, kids and anyone not in the mood to open an app can change scenes or switch off with a button. It needs AAA batteries, which aren&#39;t included. In a bedroom, the remote also lets you dim the lights without staring at a bright phone screen; see /curtain-lights-for-bedroom/.</p>
+<h2 id="who-actually-needs-smart-curtain-lights">Who actually needs smart curtain lights?</h2>
+<p><strong>Smart is worth it if you:</strong></p>
+<ul>
+<li>want pictures, text or animations, not just a glow;</li>
+<li>like changing the look for holidays, birthdays and game nights;</li>
+<li>host parties and want music sync;</li>
+<li>want a timer so the display runs itself.</li>
+</ul>
+<p><strong>You can skip smart if you:</strong></p>
+<ul>
+<li>just want a warm, steady sparkle behind a sheer curtain; a plain set is typically simpler and cheaper (see /curtain-fairy-lights/);</li>
+<li>need to control the lights from anywhere or by voice, in which case look for Wi-Fi rather than Bluetooth.</li>
+</ul>
+<h2 id="practical-checks-before-you-buy">Practical checks before you buy</h2>
+<table>
+<thead>
+<tr>
+<th>Check</th>
+<th>What Lumalyn lists</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Power</td>
+<td>5 V USB from any USB charger or power bank; the adapter is not included</td>
+</tr>
+<tr>
+<td>Weather</td>
+<td>IP44 splash resistant, for indoor and sheltered outdoor use, not open rain; keep the USB plug dry</td>
+</tr>
+<tr>
+<td>Control</td>
+<td>Bluetooth app (iOS and Android) plus a remote, used from nearby</td>
+</tr>
+<tr>
+<td>In the box</td>
+<td>Curtain, USB controller, remote and hanging hooks</td>
+</tr>
+<tr>
+<td>Sizes</td>
+<td>6 ft 7 in (2 m) or 9 ft 10 in (3 m) square, both with 400 LEDs</td>
+</tr>
+</tbody></table>
+<p>IP44 means protection against water splashing from any direction, not against jets or downpours. Planning to hang it outside? Read /outdoor-curtain-lights/ first.</p>
+<h2 id="our-verdict-on-smart-curtain-lights">Our verdict on smart curtain lights</h2>
+<p>Smart only pays off when the LEDs are addressable, and that&#39;s exactly where the Lumalyn curtain sits: 400 pixels, 100+ scenes, five music modes, DIY drawing, scrolling text, a timer and a remote, with no Wi-Fi setup to wrestle with. Choose it if you&#39;ll be near the lights when you use them, which describes most windows, living rooms and balconies. Skip it if voice control or away-from-home control is a must.</p>
+<p>Buying is low risk. Shipping is free and tracked, with dispatch in 1–3 business days and delivery in about 7–12 business days. Change-of-mind returns are accepted within 30 days with a free return label, as long as the set is unused and complete and you email Lumalyn first, and every set has a 2-year warranty. Two sets are 10% off and three are 20% off. Import duties may apply depending on your country.</p>
+27:["$","div","1",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$2c"}}],"$L2d"]}]
+28:["$","div","2",{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":""}}],false]}]
+29:["$","section",null,{"className":"faq","aria-labelledby":"faq","children":[["$","h2",null,{"id":"faq","children":"Frequently asked questions"}],[["$","details","Do smart curtain lights need Wi-Fi?",{"children":[["$","summary",null,{"children":"Do smart curtain lights need Wi-Fi?"}],["$","p",null,{"children":"No. Some connect over Wi-Fi, but many use Bluetooth, which pairs directly with your phone. Lumalyn's curtain uses Bluetooth plus a remote, so it needs no Wi-Fi, though you control it from nearby."}]]}],["$","details","What's the difference between app controlled curtain lights and remote-only sets?",{"children":[["$","summary",null,{"children":"What's the difference between app controlled curtain lights and remote-only sets?"}],["$","p",null,{"children":"A remote typically switches between a handful of preset modes. An app adds finer control: any color, brightness, speed and timers, and on pixel curtains, pictures, scrolling text and your own drawings."}]]}],["$","details","Do smart curtain lights work with Alexa or Google Home?",{"children":[["$","summary",null,{"children":"Do smart curtain lights work with Alexa or Google Home?"}],["$","p",null,{"children":"Some Wi-Fi sets do. Lumalyn doesn't list voice-assistant support for its Bluetooth curtain, so if voice control is essential, choose a Wi-Fi model that states it clearly."}]]}],["$","details","How far away can I control Bluetooth curtain lights?",{"children":[["$","summary",null,{"children":"How far away can I control Bluetooth curtain lights?"}],["$","p",null,{"children":"Bluetooth typically reaches up to about 33 ft (10 m) in open space, and walls cut that down. Plan on controlling the lights from the same room or one nearby."}]]}],["$","details","Can I make my own designs on smart curtain lights?",{"children":[["$","summary",null,{"children":"Can I make my own designs on smart curtain lights?"}],["$","p",null,{"children":"On pixel curtains, yes. Lumalyn's DIY mode lets you draw your own pixel designs or type scrolling text in the app."}]]}]]]}]
+2a:["$","section",null,{"className":"sources","children":[["$","p",null,{"className":"box-h","children":"Sources"}],["$","ul",null,{"children":[["$","li","https://lumalyn.store/products/smart-animated-christmas-balcony-lights",{"children":["$","a",null,{"href":"https://lumalyn.store/products/smart-animated-christmas-balcony-lights","rel":"sponsored noopener","children":"Lumalyn Smart Animated Christmas Balcony Lights (product page)"}]}],["$","li","https://en.wikipedia.org/wiki/Bluetooth",{"children":["$","a",null,{"href":"https://en.wikipedia.org/wiki/Bluetooth","rel":"noopener","children":"Bluetooth (Wikipedia)"}]}],["$","li","https://en.wikipedia.org/wiki/IP_code",{"children":["$","a",null,{"href":"https://en.wikipedia.org/wiki/IP_code","rel":"noopener","children":"IP code (Wikipedia)"}]}],["$","li","https://lumalyn.store/policies/shipping-policy",{"children":["$","a",null,{"href":"https://lumalyn.store/policies/shipping-policy","rel":"sponsored noopener","children":"Lumalyn shipping policy"}]}],["$","li","https://lumalyn.store/policies/refund-policy",{"children":["$","a",null,{"href":"https://lumalyn.store/policies/refund-policy","rel":"sponsored noopener","children":"Lumalyn refund policy"}]}]]}]]}]
+2b:["$","section",null,{"className":"wrap wide related","aria-labelledby":"related","children":[["$","h2",null,{"id":"related","className":"section-h","children":"More curtain light guides"}],["$","div",null,{"className":"guide-grid","children":[["$","$L3","led-curtain-lights",{"href":"/led-curtain-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"LED Curtain Lights: How to Choose the Right Set for Windows and Balconies"}]]}],["$","$L3","curtain-fairy-lights",{"href":"/curtain-fairy-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"Curtain Fairy Lights: Home Ideas, Colors and How Many You Need"}]]}],["$","$L3","outdoor-curtain-lights",{"href":"/outdoor-curtain-lights/","className":"guide-card","children":[["$","img",null,{"src":"https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=600&height=375&crop=center","alt":"","width":600,"height":375,"loading":"lazy"}],["$","span",null,{"className":"gc-title","children":"Outdoor Curtain Lights: IP Ratings, Safe Power and Where to Put Them"}]]}]]}]]}]
+2d:["$","p",null,{"className":"pick-note","children":[["$","strong",null,{"children":"Our pick:"}]," the ","Lumalyn Smart Animated Christmas Balcony Lights"," (400 pixel LEDs, app and remote, 2 m or 3 m). Specs and current price are on the"," ",["$","a",null,{"href":"https://lumalyn.store/","rel":"sponsored noopener","children":"partner store"}]," (partner link; we may earn from purchases)."]}]
+1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16130f"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]
+2e:I[27201,["$2"],"IconMark"]
+1a:null
+20:[["$","title","0",{"children":"Smart Curtain Lights: App Control, Pixels and Music Sync"}],["$","meta","1",{"name":"description","content":"Smart curtain lights explained: Bluetooth vs. Wi-Fi apps, pixel animations, music sync, DIY drawing and timers. Find out if smart is worth it for your home."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","link","3",{"rel":"canonical","href":"https://curtainlights.pages.dev/smart-curtain-lights/"}],["$","meta","4",{"property":"og:title","content":"Smart Curtain Lights: App Control, Pixels and Music Sync"}],["$","meta","5",{"property":"og:description","content":"Smart curtain lights explained: Bluetooth vs. Wi-Fi apps, pixel animations, music sync, DIY drawing and timers. Find out if smart is worth it for your home."}],["$","meta","6",{"property":"og:url","content":"https://curtainlights.github.io/smart-curtain-lights/"}],["$","meta","7",{"property":"og:image","content":"https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"}],["$","meta","8",{"property":"og:image:width","content":"1024"}],["$","meta","9",{"property":"og:image:height","content":"1024"}],["$","meta","10",{"property":"og:image:alt","content":"Smart curtain lights on a high-rise glass balcony showing a pixel angel and a golden star above the city at night"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:modified_time","content":"2026-10-20"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Smart Curtain Lights: App Control, Pixels and Music Sync"}],["$","meta","15",{"name":"twitter:description","content":"Smart curtain lights explained: Bluetooth vs. Wi-Fi apps, pixel animations, music sync, DIY drawing and timers. Find out if smart is worth it for your home."}],["$","meta","16",{"name":"twitter:image","content":"https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"}],["$","link","17",{"rel":"icon","href":"/icon.svg?icon.2on7mg89f6ru9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2e","18",{}]]
