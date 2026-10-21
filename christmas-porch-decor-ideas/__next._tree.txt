@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/31r0clkbiibie.css","style"]
+:HL["/_next/static/chunks/0zn6p8vbx4t16.css","style"]
 :HL["/_next/static/media/0f44b6394d723b98-s.p.24ir78z669k58.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/37afeb4e0885cb1d-s.p.34pxs3l5kt36m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/68d403cf9f2c68c5-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=720&height=480&crop=center","image",{"imageSrcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=480&height=320&crop=center 480w, https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=720&height=480&crop=center 720w, https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=960&height=640&crop=center 960w, https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200&height=800&crop=center 1200w","imageSizes":"(max-width: 760px) calc(100vw - 40px), 720px","fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"d","k":"christmas-porch-decor-ideas","s":[]},"h":65632,"c":"$Q2"}]]
-0:{"b":"d6_H5mgUJo-mpJy9kZnzh","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"3umsZZyTaO6Nrekl8GuQ0","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
