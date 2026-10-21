@@ -5,4 +5,4 @@
 :HL["/_next/static/media/efd23c95a9595abc-s.p.17bkc83it2-u9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=960","image",{"imageSrcSet":"https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=480 480w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=720 720w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=960 960w","imageSizes":"(max-width: 900px) calc(100vw - 72px), 820px","fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"vnDJ8EHh4FgS35rqZxtHm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"d6_H5mgUJo-mpJy9kZnzh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
